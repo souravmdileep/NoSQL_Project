@@ -1,0 +1,3 @@
+[submodule "docker-hive"]
+	path = docker-hive
+	url = https://github.com/sassy2711/NoSQL_project.git
